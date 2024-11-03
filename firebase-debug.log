@@ -1,0 +1,26 @@
+[debug] [2024-11-03T22:53:22.911Z] ----------------------------------------------------------------------
+[debug] [2024-11-03T22:53:22.913Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\momor\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-11-03T22:53:22.913Z] CLI Version:   13.23.0
+[debug] [2024-11-03T22:53:22.913Z] Platform:      win32
+[debug] [2024-11-03T22:53:22.913Z] Node Version:  v20.11.1
+[debug] [2024-11-03T22:53:22.913Z] Time:          Sun Nov 03 2024 17:53:22 GMT-0500 (Eastern Standard Time)
+[debug] [2024-11-03T22:53:22.914Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-11-03T22:53:22.960Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-11-03T22:53:22.961Z] > authorizing via signed-in user (momoruan06@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\centennial-classes\docker\expenses-control-angular
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+  * You are initializing within an existing Firebase project directory
+
